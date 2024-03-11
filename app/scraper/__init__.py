@@ -1,0 +1,1 @@
+from .scraper import news_scraper
